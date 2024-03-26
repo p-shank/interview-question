@@ -1,0 +1,1 @@
+1.My programming language supports only 2-digit numbers. I want to do computations on 4-digit numbers. How can I achieve that?
